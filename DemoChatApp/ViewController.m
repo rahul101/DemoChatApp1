@@ -139,7 +139,6 @@
     NSUserDefaults  *userDefaults = [NSUserDefaults standardUserDefaults];
     [userDefaults setObject:self.messagesArrayList forKey:@"MessageChatArray"];
     [userDefaults synchronize];
-    
     [self.chatTableView reloadData];
     
 }

@@ -1,10 +1,4 @@
 //
-//  AppDelegate.m
-//  DemoChatApp
-//
-//  Created by Mangal Compu Solution on 05/11/17.
-//  Copyright © 2017 KloudData. All rights reserved.
-//
 
 #import "AppDelegate.h"
 
